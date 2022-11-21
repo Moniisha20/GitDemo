@@ -9,6 +9,8 @@ public static void main(String[] args) {
 	int e = 13 ;
 	int c = a + b ;
 	int f = d * e ;
+	int r = 3 ;
+
 	System.out.println(c);
 }
 }
